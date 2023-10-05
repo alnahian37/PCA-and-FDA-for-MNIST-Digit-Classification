@@ -1,0 +1,1 @@
+MATLAB codes for Principal Component Analysis (PCA) and Fischer Distriminant Analysis (FDA) for Digit 1 and Digit 5 Classification from MNIST dataset.
